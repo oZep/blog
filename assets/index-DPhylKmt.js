@@ -111,6 +111,7 @@ Please report this to https://github.com/markedjs/marked.`,e){let r="<p>An error
         .prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 { color: ${s} !important; }
         .prose a, .prose b, .prose strong, .prose em, .prose code { color: ${i} !important; }
       `}),w.jsx("div",{dangerouslySetInnerHTML:{__html:n}})]})}function Wg(){const{eventId:e}=zs(),{theme:t}=oi(),[n,r]=y.useState("");y.useEffect(()=>{e&&fetch(`/blog/events/${e}.md`).then(a=>a.text()).then(a=>{const c=M.parse(a);c instanceof Promise?c.then(m=>r(m)):r(c)})},[e]);const l=t==="dark"?"#224415":"#FEF3BB",i=t==="dark"?"#FEF3BB":"#224415",o=t==="dark"?"white":"black",s=t==="dark"?"white":"black";return w.jsxs("div",{className:"prose prose-neutral max-w-none",style:{background:l,color:o,padding:"1.5rem",borderRadius:"0.5rem",position:"relative"},children:[w.jsx("style",{children:`
-        .prose a, .prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 { color: ${s} !important; }
-        .prose a, .prose code { color: ${i} !important; }
+        .prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 { color: ${s} !important; }
+        .prose a, .prose b, .prose strong, .prose em, .prose code { color: ${i} !important; }
+        .prose img { max-width: 100%; border-radius: 0.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
       `}),w.jsx("div",{dangerouslySetInnerHTML:{__html:n}})]})}function Vg(){const{noteId:e}=zs(),{theme:t}=oi(),n=t==="dark"?"#224415":"#FEF3BB",r=t==="dark"?"white":"#FEF3BB";return w.jsx("iframe",{src:`/blog/notes/${e}.pdf`,title:e,className:"w-full h-[80vh] border-2",style:{borderColor:n,background:r}})}Rf(document.getElementById("root")).render(w.jsx(y.StrictMode,{children:w.jsx(Um,{basename:"/blog",children:w.jsx(Ug,{})})}));
