@@ -15,4 +15,12 @@ Big thank you to the CS Club and CSSA for sponsoring the trip, to Ecole de Techn
 
 I also got to visit Google's headquarters.
 
-![image of event](../events/csgames-images/714346322177.jpeg)
+![image of event](../events/csgames-images/13W0A7-109.jpg)
+![image of event](../events/csgames-images/13W0A7-57.jpg)
+![image of event](../events/csgames-images/13W0A7-105.jpg)
+![image of event](../events/csgames-images/9W0A7-166.jpg)
+![image of event](../events/csgames-images/9W0A7-167.jpg)
+![image of event](../events/csgames-images/12W0A7-52.jpg)
+![image of event](../events/csgames-images/2024-03-17%20CS%20Games%202024%20%20EVO-72.jpg)
+![image of event](../events/csgames-images/2024-03-17%20CS%20Games%202024%20%20EVO-71.jpg)
+![image of event](../events/csgames-images/1714346322177.jpeg)
