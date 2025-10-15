@@ -238,8 +238,9 @@ function EventPage() {
   return (
     <div className="prose prose-neutral max-w-none" style={{ background: bg, color, padding: '1.5rem', borderRadius: '0.5rem', position: 'relative' }}>
       <style>{`
-        .prose a, .prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 { color: ${headerColor} !important; }
-        .prose a, .prose code { color: ${border} !important; }
+        .prose h1, .prose h2, .prose h3, .prose h4, .prose h5, .prose h6 { color: ${headerColor} !important; }
+        .prose a, .prose b, .prose strong, .prose em, .prose code { color: ${border} !important; }
+        .prose img { max-width: 100%; border-radius: 0.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.08); }
       `}</style>
       <div dangerouslySetInnerHTML={{ __html: markdownHtml }} />
     </div>
