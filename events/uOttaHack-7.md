@@ -12,5 +12,5 @@ A few personal highlights:
 - Worked alongside great mentors and volunteers, especially Christine and Wei He from Major League Hacking (MLH)!
 
 ![image of event](../events/uottahack-images/1737591078195.jpeg)
-![image of event](../events/uottahack-images/1737591084546.jpeg)
 ![image of event](../events/uottahack-images/1737591088974.jpeg)
+![image of event](../events/uottahack-images/1737591084546.jpeg)
