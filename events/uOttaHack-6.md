@@ -8,4 +8,4 @@ I created Link Ahead, a chrome browser extension that warned you about phishing 
 
 Even though my project didn't win, the experience I gained during the demo and project showcase phase was invaluable. I learned a lot from presenting my work, receiving feedback, and seeing what others built.
 
-[image of event](../events/uottahack-images/1710016906922.jpeg)
+![image of event](../events/uottahack-images/1710016906922.jpeg)
