@@ -1,4 +1,4 @@
-# uOttaHack 6!
+# uOttaHack 6
 
 This was my first ever hackathon where I actually managed to submit a project.
 

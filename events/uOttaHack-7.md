@@ -1,6 +1,6 @@
 # uOttaHack 7
 
-I had the privilege of helping organize uOttaHack 7, which turned out to be the biggest hackathon we've ever hosted at the University of Ottawa (with over 850 attendees)
+I had the privilege of helping organize uOttaHack 7, which turned out to be the biggest hackathon we've ever hosted at the University of Ottawa (with over 850 attendees).
 
 This year, I focused on making sure communication flowed smoothly between organizers and hackers. I also helped plan and run community events for everyone at the hackathon, working to keep things on track and make sure people had a great time.
 
