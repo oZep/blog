@@ -55,6 +55,11 @@
   ],
   "notes": [
     {
+      "file": "68HCS12-Instruction-Set.pdf",
+      "title": "68HCS12-Instruction-Set",
+      "html": "notes/68HCS12-Instruction-Set.pdf"
+    },
+    {
       "file": "CEG2136-CompArch-Midterm.pdf",
       "title": "CEG2136-CompArch-Midterm",
       "html": "notes/CEG2136-CompArch-Midterm.pdf"
