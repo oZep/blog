@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>uOttaHack 8</title>
+</head>
+<body>
+<h1>uOttaHack 8</h1><br><br>We set out to build the world’s smallest data center in 36 hours. 🤏⚡<br><br>We didn't walk away with a trophy this time, but we walked away with something cooler: Qubernetes.<br><br>Our goal was "hilarious and technically ludicrous"—we wanted to apply large-scale data center thinking to resource-constrained microcontrollers like ESP32s and Raspberry Pis. While everyone is focused on massive AI compute, we wanted to see if we could orchestrate workloads on devices with less storage than a single JPEG.<br><br>The technical stuff:<li>Wrote firmware for ESP32s to act as "deployable units".</li><li>Cross-compiled and ported a Rust-based Minecraft server (Oxide) to run on QNX RTOS.</li><li>Actually played Minecraft on it.</li><li>Set up Grafana and Dokploy for container orchestration.</li><br><br>The hardware definitely humbled us. When you only have 8-16MB of flash, you can't "just add dependencies". We dealt with overheating Pi Zeros, network debugging nightmares, and the strict constraints of embedded systems.<br><br>My biggest takeaway? Code is a liability, not an asset. Leveraging existing tools like Docker Compose allowed us to focus on the impossible parts rather than reinventing the wheel.<br><br>Huge shoutout to my teammates: Surya Vasudev, Mumtahin Farab and Ethan Michael, for grinding through the QNX docs with me! Also thanks to Justin Scaffidi for the QNX debugging help.<br><br>!<a href="../events/uottahack8-images/1769055320736.jpg">image of event</a><br>!<a href="../events/uottahack8-images/1769055321248.jpg">image of event</a><br>!<a href="../events/uottahack8-images/1769055321331.jpg">image of event</a>
+</body>
+</html>
